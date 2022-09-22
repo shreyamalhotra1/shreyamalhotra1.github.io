@@ -5,9 +5,12 @@ tags: [jekyll]
 ---
 Welcome to my website!
 
-I submitted my Ph.D. thesis (in Economics) from Jawaharlal Nehru University, India in June 2022. My thesis title was 'Essays in the Economics of Courtship, Marriage and Divorce'. I have previously worked as an Assistant Professor at University of Delhi.
+I submitted my Ph.D. thesis (in Economics) from Jawaharlal Nehru University, India in June 2022. My thesis title was
+'Essays in the Economics of Courtship, Marriage and Divorce'. I have previously worked as an Assistant Professor at
+University of Delhi.
 
-I am an economist with primary research interests in the field of Family Economics, Applied Game theory, Law and Economics and Behavioural economics.
+I am an economist with primary research interests in the field of Family Economics, Applied Game theory, Law and
+Economics and Behavioural economics.
 
 For more information,please contact me at <a href="mailto:shreyamalhotra_13@outlook.com">shreyamalhotra_13@outlook.com</a><br/>
 <a href="https://www.linkedin.com/in/shreya-malhotra1/" target="_blank"><em>LinkedIn profile</em></a>
