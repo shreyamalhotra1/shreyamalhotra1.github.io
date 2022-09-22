@@ -1,0 +1,56 @@
+---
+title:  "Research"
+categories: [jekyll]
+tags: [jekyll]
+---
+
+<p> 
+<b>Dissertation</b> - "<u>Essays in the Economics of Courtship, Marriage and Divorce</u>"
+<br/>
+<b>Essay 1:</b> Impact on Conspicous Consumption if Prenuptial Agreements are signed
+<br/>
+<b>Essay 2:</b> When does type heterogeneity in the Courtship market matter?
+<br/>
+<b>Essay 3:</b> Endogenous Violence
+</p>
+
+
+<h3>Job Market Paper</h3>
+
+<p><b>Do prenups affect conspicous consumption in the Courtship Market? A Game Theoretic Analysis with Heterogenous Types</b></p>
+<details><summary>Abstract:</summary><p><font size="2">
+I build the model assuming two-sided incomplete information, that is, potential partners have incomplete information
+about each other’s type in the mate-selection process. I assume equal bargaining power of both partners. In my model,
+a woman offers prenup in the marriage which the man can either accept or reject. Man can reject prenup and still get
+married by entering into a costly courtship during which he attempts to signal his worth as a high-income partner. I
+check if the preference of a woman for a man’s lifetime income and disutility from domestic violence affects the
+amount of conspicuous consumption required by her in the courtship period to agree to the marriage.
+
+<br/>
+
+I construct a three-stage sequential game with two players: a woman and a man and both of them are of two types unknown to each other.
+Man derives positive utility from marriage and violence and woman derives positive utility from conspicuous consumption and negative
+utility from violence. I find parameter zones where the ability to offer prenup a) reduces conspicuous consumption or b) affects marriage
+rate, even when it doesn’t affect conspicuous consumption. Interestingly, I find that woman who cares more about the lifetime
+income that a man brings to the marriage than the disutility she gets from violent behaviour is willing to say yes to marriage at lower
+threshold values of conspicuous consumption. I also find that, when being single becomes more attractive, women require a higher
+threshold value of conspicuous consumption to agree to the marriage.</font></p></details>
+
+<h3>Publication</h3>
+
+<p><b>Does Divorce Law Liberalisation Impact Domestic Violence?<em>SAGE JOURNALS (2022)</em></b> (<a href="https://journals.sagepub.com/doi/abs/10.1177/09767479221096712?journalCode=atha" target="_blank"><em>Paper</em></a>)</p>
+<details><summary>Abstract:</summary><p><font size="2">I examine the extent to which a shift from a mutual consent regime to a unilateral divorce regime succeeds in preventing domestic violence. In my framework, a partner may be inclined to violence but dislikes being subjected to a partner’s violence. I find that, when payoff from marriage is 
+positive, both parties choose the maximum level of violence under a mutual consent regime. There is a parameter zone within which domestic violence falls as a transition is made to unilateral divorce regime. Further, I find that
+policymakers can reduce the cost of filing for divorce. I also find that the marriage rate changes with the switch in the regime..</font></p></details>
+
+<h3>Work-in progress</h3>
+
+<p><b>Does the option to Sign Prenuptial Agreements affect Domestic Violence?</b> (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4165086" target="_blank"><em>Available at SSRN</em></a>)</p>
+<details><summary>Abstract:</summary><p><font size="2">I construct a three stage simultanous move game to evalauate the impact of having the option of signing a prenuptial agreement on domestic violence In my framework partners like exerting violence but dislike being subjected to violence by their partners.I find that the extent of violence chosen by partners under a state division rule is high, regardless of whether they file for divorce or not. I derive conditions under whch a prenup reduces domestic violence.Having a prenup option does not necessarliy reduce  violence if the cos of filing for divorce is high or if the cost of violence borne by the accused at the time of divorce is low.
+
+My work suggests that reducing the cost of filing for divorce and the cost of signing prenups, (including stigma as well as monetary costs) may reduce domestic violence.</font></p></details>
+
+<h3>Non-Academic Publications</h3><p>
+<p><b>Multiple Equilibria: Trend Followers or Contrarians in Stock Market (2022) MarketExpress.</b> (<a href="https://www.marketexpress.in/2022/08/multiple-equilibria-trend-followers-or-contrarians-in-stock-market.html" target="_blank"><em>Link</em></a>)</p>
+
+<p><b>Sharing Economy: Should Uber and other non-traditional industries like Airbnb be encouraged by governments? (2022) MarketExpress.</b> (<a href="https://www.marketexpress.in/2022/08/multiple-equilibria-trend-followers-or-contrarians-in-stock-market.html" target="_blank"><em>Link</em></a>)</p>

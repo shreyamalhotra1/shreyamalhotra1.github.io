@@ -1,0 +1,30 @@
+---
+title:  "Teaching"
+categories: [jekyll]
+tags: [jekyll]
+---
+
+<h3>Assistant Professor, University of Delhi (Undergraduate)</h3>
+<ul>
+<li>Financial Economics</li>
+<li>Public Economics</li>
+<li>Intermediate Micoreconomics II</li>
+<li>Data Analysis</li>
+<li>Mathematical Methods for Economics I</li>
+<li>Principles of Microeconomics</li>
+<li>Research Methodology</li>
+<li>Statistical Methods for Economics</li>
+<li>Introductory Econometrics</li>
+</ul>
+
+<h3> Teaching Assistant (Masters), Jawaharlal Nehru University</h3>
+<ul>
+  <li>Macroeconomics I</li>
+  <li>Marcoeconomics II</li>
+</ul>
+<h3> Visitng Assistant Professor</h3>
+<ul>
+  <li>Monetary Economics at Indian School of Business and Finance</li>
+  <li>Money and Banking and Game Theory at Narsee Monjee Institute of Mangement Sciences</li>   
+  <li>International Trade,Public Economics, Matheamtical Methods for Economics, Introductory Macroeconomics and Introductory Microeconomics at Delhi Technological University</li>
+</ul>
