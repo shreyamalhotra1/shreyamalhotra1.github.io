@@ -6,19 +6,17 @@ tags: [jekyll]
 
 <p> 
 <b>Dissertation</b> - "<u>Essays in the Economics of Courtship, Marriage and Divorce</u>"
-<br/>
-<b>Essay 1:</b> Impact on Conspicuous Consumption if Prenuptial Agreements are signed
-<br/>
-<b>Essay 2:</b> When does type heterogeneity in the Courtship market matter?
-<br/>
-<b>Essay 3:</b> Endogenous Violence
 </p>
 
 
 <h3>Job Market Paper</h3>
 
-<p><b>Do prenups affect conspicuous consumption in the Courtship Market? A Game Theoretic Analysis with Heterogeneous Types</b></p>
-<details><summary>Abstract:</summary><p><font size="2">
+<p>
+<b>Do prenups affect conspicuous consumption in the Courtship Market? A Game Theoretic Analysis with Heterogeneous Types</b>
+</p>
+<details><summary>Abstract:</summary>
+<p>
+<font size="2">
 I build the model assuming two-sided incomplete information, that is, potential partners have incomplete information
 about each other’s type in the mate-selection process. I assume equal bargaining power of both partners. In my model,
 a woman offers prenup in the marriage which the man can either accept or reject. Man can reject prenup and still get
@@ -34,7 +32,10 @@ utility from violence. I find parameter zones where the ability to offer prenup 
 rate, even when it does not affect conspicuous consumption. Interestingly, I find that woman who cares more about the lifetime
 income that a man brings to the marriage than the disutility she gets from violent behaviour is willing to say yes to marriage at lower
 threshold values of conspicuous consumption. I also find that, when being single becomes more attractive, women require a higher
-threshold value of conspicuous consumption to agree to the marriage.</font></p></details>
+threshold value of conspicuous consumption to agree to the marriage.
+</font>
+</p>
+</details>
 
 <h3>Publication</h3>
 
@@ -45,10 +46,15 @@ positive, both parties choose the maximum level of violence under a mutual conse
 falls as a transition is made to unilateral divorce regime. Further, I find that policymakers can reduce the cost of filing for divorce. I also find 
 that the marriage rate changes with the switch in the regime..</font></p></details>
 
-<h3>Work-in progress</h3>
+<h3>Work-in Progress</h3>
 
-<p><b>Does the option to Sign Prenuptial Agreements affect Domestic Violence?</b> (<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4165086" target="_blank"><em>Available at SSRN</em></a>)</p>
-<details><summary>Abstract:</summary>
+<p>
+<b>Does the option to Sign Prenuptial Agreements affect Domestic Violence?</b> 
+(<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4165086" target="_blank"><em>Available at SSRN</em></a>)
+</p>
+
+<details>
+<summary>Abstract:</summary>
 <p>
 <font size="2">
 I construct a three stage simultaneous move game to evaluate the impact of having the option of signing a prenuptial agreement
@@ -63,7 +69,16 @@ monetary costs) may reduce domestic violence.
 </p>
 </details>
 
+<p></p>
+
+<p><b>Essay 1:</b> Impact on Conspicuous Consumption if Prenuptial Agreements are signed</p>
+<p><b>Essay 2:</b> When does type heterogeneity in the Courtship market matter?</p>
+<p><b>Essay 3:</b> Endogenous Violence</p>
+
 <h3>Non-Academic Publications</h3><p>
 <p><b>Multiple Equilibria: Trend Followers or Contrarians in Stock Market (2022) MarketExpress.</b> (<a href="https://www.marketexpress.in/2022/08/multiple-equilibria-trend-followers-or-contrarians-in-stock-market.html" target="_blank"><em>Link</em></a>)</p>
 
-<p><b>Sharing Economy: Should Uber and other non-traditional industries like Airbnb be encouraged by governments? (2022) MarketExpress.</b> (<a href="https://www.marketexpress.in/2022/08/multiple-equilibria-trend-followers-or-contrarians-in-stock-market.html" target="_blank"><em>Link</em></a>)</p>
+<p>
+<b>Sharing Economy: Should Uber and other non-traditional industries like Airbnb be encouraged by governments? (2022) MarketExpress.</b>
+(<a href="https://www.marketexpress.in/2022/08/multiple-equilibria-trend-followers-or-contrarians-in-stock-market.html" target="_blank"><em>Link</em></a>)
+</p>

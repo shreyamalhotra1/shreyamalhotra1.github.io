@@ -17,14 +17,14 @@ tags: [jekyll]
 <li>Introductory Econometrics</li>
 </ul>
 
-<h3> Teaching Assistant (Masters), Jawaharlal Nehru University</h3>
+<h3>Teaching Assistant (Masters), Jawaharlal Nehru University</h3>
 <ul>
   <li>Macroeconomics I</li>
   <li>Macroeconomics II</li>
 </ul>
-<h3> Visiting Assistant Professor</h3>
+<h3>Visiting Assistant Professor</h3>
 <ul>
-  <li>Monetary Economics at Indian School of Business and Finance</li>
-  <li>Money and Banking and Applied Economics at Narsee Monjee Institute of Management Sciences</li>   
-  <li>International Trade, Public Economics, Mathematical Methods for Economics, Introductory Macroeconomics and Introductory Microeconomics at Delhi Technological University</li>
+  <li>Monetary Economics at <em>Indian School of Business and Finance</em></li>
+  <li>Money and Banking and Applied Economics at <em>Narsee Monjee Institute of Management Sciences</em></li>   
+  <li>International Trade, Public Economics, Mathematical Methods for Economics, Introductory Macroeconomics and Introductory Microeconomics at <em>Delhi Technological University</em></li>
 </ul>
