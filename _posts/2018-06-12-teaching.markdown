@@ -25,6 +25,6 @@ tags: [jekyll]
 <h3>Visiting Assistant Professor</h3>
 <ul>
   <li>Monetary Economics at <em>Indian School of Business and Finance</em></li>
-  <li>Money and Banking and Applied Economics at <em>Narsee Monjee Institute of Management Sciences</em></li>   
+  <li>Money, Banking and Financial Institutions, and Applied Economics at <em>Narsee Monjee Institute of Management Sciences</em></li>   
   <li>International Trade, Public Economics, Mathematical Methods for Economics, Introductory Macroeconomics and Introductory Microeconomics at <em>Delhi Technological University</em></li>
 </ul>

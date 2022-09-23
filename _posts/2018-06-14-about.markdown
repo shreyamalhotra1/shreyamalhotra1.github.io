@@ -17,6 +17,6 @@ For more information,please contact me at <a href="mailto:shreyamalhotra_13@outl
 <br/>
 
 You can find my details here:<br/>
-<a href="https://www.linkedin.com/in/shreya-malhotra1/" target="_blank"><em>LinkedIn profile</em></a><br/>
 <a href="{{ site.baseurl }}/files/CV_SM.pdf" class="blog-button"><em>CV</em></a><br/>
 <a href="{{ site.baseurl }}/files/ShreyaMalhotra.pdf" class="blog-button"><em>Academic CV</em></a>
+<a href="https://www.linkedin.com/in/shreya-malhotra1/" target="_blank"><em>LinkedIn profile</em></a><br/>
