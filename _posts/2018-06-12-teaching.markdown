@@ -9,10 +9,10 @@ tags: [jekyll]
 
 <li>Financial Economics (<a href="{{ site.baseurl }}/files/FinancialEconomics.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Public Economics (<a href="{{ site.baseurl }}/files/PublicEconomics.pdf" class="blog-button">Syllabus</a>)</li>
-<li>Intermediate Microeconomics II (<a href="{{ site.baseurl }}/files/IntermediateEconomicsII.pdf" class="blog-button">Syllabus</a>)</li>
+<li>Intermediate Microeconomics II (<a href="{{ site.baseurl }}/files/IntermediateMicroeconomicsII.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Data Analysis (<a href="{{ site.baseurl }}/files/DataAnalysis.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Mathematical Methods for Economics I (<a href="{{ site.baseurl }}/files/MathematicalMethods.pdf" class="blog-button">Syllabus</a>)</li>
-<li>Principles of Microeconomics (<a href="{{ site.baseurl }}/files/PrinciplesOfEconomics.pdf" class="blog-button">Syllabus</a>)</li>
+<li>Principles of Microeconomics (<a href="{{ site.baseurl }}/files/PrinciplesOfMicroeconomics.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Research Methodology (<a href="{{ site.baseurl }}/files/ResearchMethodology.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Statistical Methods for Economics (<a href="{{ site.baseurl }}/files/StatisticalMethodsForEconomics.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Introductory Econometrics (<a href="{{ site.baseurl }}/files/IntroductoryEconometrics.pdf" class="blog-button">Syllabus</a>)</li>
