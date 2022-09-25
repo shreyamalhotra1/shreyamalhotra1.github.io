@@ -6,15 +6,17 @@ tags: [jekyll]
 
 <h3>Assistant Professor, University of Delhi (Undergraduate)</h3>
 <ul>
-<li>Financial Economics</li>
-<li>Public Economics</li>
+
+<li>Financial Economics (<a href="{{ site.baseurl }}/files/FinancialEconomics.pdf" class="blog-button">Syllabus</a>)</li>
+<li>Public Economics (<a href="{{ site.baseurl }}/files/PublicEconomics.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Intermediate Microeconomics II</li>
-<li>Data Analysis</li>
-<li>Mathematical Methods for Economics I</li>
+<li>Data Analysis (<a href="{{ site.baseurl }}/files/DataAnalysis.pdf" class="blog-button">Syllabus</a>)</li>
+<li>Mathematical Methods for Economics I (<a href="{{ site.baseurl }}/files/MathematicalMethods.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Principles of Microeconomics</li>
-<li>Research Methodology</li>
+<li>Research Methodology (<a href="{{ site.baseurl }}/files/ResearchMethodology.pdf" class="blog-button">Syllabus</a>)</li>
 <li>Statistical Methods for Economics</li>
-<li>Introductory Econometrics</li>
+<li>Introductory Econometrics (<a href="{{ site.baseurl }}/files/IntroductoryEconometrics.pdf" class="blog-button">Syllabus</a>)</li>
+
 </ul>
 
 <h3>Teaching Assistant (Masters), Jawaharlal Nehru University</h3>
@@ -24,7 +26,7 @@ tags: [jekyll]
 </ul>
 <h3>Visiting Assistant Professor</h3>
 <ul>
-  <li>Monetary Economics at <em>Indian School of Business and Finance</em></li>
-  <li>Money, Banking and Financial Institutions, and Applied Economics at <em>Narsee Monjee Institute of Management Sciences</em></li>   
+  <li>Monetary Economics at <em>Indian School of Business and Finance</em> (<a href="{{ site.baseurl }}/files/MonetaryEconomics.pdf" class="blog-button">Syllabus</a>)</li>
+  <li>Money, Banking and Financial Institutions (<a href="{{ site.baseurl }}/files/MoneyBankingAndFinancialInstitutions.pdf" class="blog-button">Syllabus</a>), and Applied Economics (<a href="{{ site.baseurl }}/files/AppliedEconomics.pdf" class="blog-button">Syllabus</a>) at <em>Narsee Monjee Institute of Management Sciences</em></li>   
   <li>International Trade, Public Economics, Mathematical Methods for Economics, Introductory Macroeconomics and Introductory Microeconomics at <em>Delhi Technological University</em></li>
 </ul>
